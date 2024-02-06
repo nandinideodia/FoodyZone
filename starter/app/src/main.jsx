@@ -13,6 +13,9 @@ const GlobalStyle = createGlobalStyle`
 
   body{
     background-color: #323343;
+    font-family: "Inter", sans-serif;
+    color:white;
+    min-height: 100vh;
   }
 `
 
